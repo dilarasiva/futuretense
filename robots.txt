@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://futuretenseconsulting.org/sitemap.xml
+Sitemap: http://192.168.0.40:1313/sitemap.xml
